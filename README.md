@@ -44,6 +44,6 @@
   ##
   ### Vamos conversar!!! 😉
   <div> 
-  <a href="mailto:jonatasoliveiramont@gmail.com?subject=Assunto do e-mail&body=Olá,%20Gostaria%20de%20entrar%20em%20contato."><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
+  <a href="mailto:jonatasoliveiramont@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
   <a href="https://www.linkedin.com/in/jonatas-de-oliveira-monteiro-860153112/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
